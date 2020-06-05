@@ -1,0 +1,9 @@
+{ 
+  "format": "rss",
+  "citation": "National Museum of Natural History, Smithsonian Institution IPT RSS Feed",
+  "resources" : {
+    "rss": "https://collections.nmnh.si.edu/ipt/rss.do"
+  },
+  "hasDependencies": false,
+  "shouldResolveReferences": false
+}
